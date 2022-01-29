@@ -1,5 +1,5 @@
 # Shielder
-Light weight Ad-Blocker.
+Light weight Ad-Blocker Block normal ads as well as spotify ads on web player.
 
 
 # NOTICE
