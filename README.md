@@ -16,3 +16,5 @@ Copyright (c) 2022 rakshitdogra
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 
 And browsers based on chrome.
+# Note 
+If it is unable to block/skip ad, it will automatically mute the ad. If this condition persists just refresh the page and you are good to go.
