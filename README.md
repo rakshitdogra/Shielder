@@ -17,7 +17,7 @@ Copyright (c) 2022 rakshitdogra
 
 And browsers based on chrome.
 
-## How to Install ?
+# Installation
 
 1. Clone or download this repository.
 2. Navigate to chrome://extensions/
