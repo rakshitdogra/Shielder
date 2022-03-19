@@ -20,13 +20,5 @@ Copyright (c) 2022 rakshitdogra
 
 And browsers based on chrome.
 
-# Installation
-
-1. Clone or download this repository.
-2. Navigate to chrome://extensions/
-3. Click on 'Toggle the developer mode'.
-4. Click on 'Load Unpacked'
-5. Select the complete folder which you cloned or downloaded in the first step.
-
 # Note 
 For Spotify: If it is unable to block/skip ad due to any updates, it will automatically mute the ad. If this condition persists just refresh the page and you are good to go.
