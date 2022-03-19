@@ -1,3 +1,6 @@
+# IMPORTANT
+SHIELDER IS NOT MAINTAINED SINCE MARCH 2022 AFTER GETTING INCOMPATIBLE WITH MANIFEST VERSION 2.
+
 # Shielder
 Light weight Ad-Blocker. Blocks normal ads as well as spotify ads on web player and web app from more than 12,000 advertisers
 
